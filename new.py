@@ -1,0 +1,1 @@
+image_path = 'C:\\Users\\jydhasan\\Desktop\\mapImage.jpg'
